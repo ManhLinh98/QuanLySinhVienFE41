@@ -4,3 +4,6 @@ var DanhSachSinhVien= function(){
 this.Hienthithongtin= function(){
     this.console.log();
 }
+this.xoads=function(){
+    
+}
