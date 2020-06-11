@@ -1,5 +1,5 @@
 var DanhSachSinhVien= function(){
-    var dssv
+    this.dssv;
 }
 this.Hienthithongtin= function(){
     this.console.log();
