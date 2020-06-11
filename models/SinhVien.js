@@ -7,4 +7,7 @@ var SinhVien=function(){
     this.DiemLy='';
     this.DiemHoa='';
     
+    this.XuatTTSV=function(){
+        console.log(this.TenSV);
+    }
 }
